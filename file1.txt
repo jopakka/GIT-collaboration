@@ -1,2 +1,6 @@
 asdsadsad
+<<<<<<< HEAD
 Joonas was here
+=======
+Michael was here
+>>>>>>> michaels_development_branch
