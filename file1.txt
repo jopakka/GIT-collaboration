@@ -1,6 +1,4 @@
 asdsadsad
-<<<<<<< HEAD
+
 Joonas was here
-=======
-Michael was here
->>>>>>> michaels_development_branch
+MIchael has kept Joonas's changes
